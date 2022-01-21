@@ -42,8 +42,4 @@ console.log(precio + miVariable)
 // Castear/transformar a tipo de dato number
 impuesto = +impuesto
 console.log(precio + impuesto)
-
-
-
-
-
+console.log(precio * impuesto)
