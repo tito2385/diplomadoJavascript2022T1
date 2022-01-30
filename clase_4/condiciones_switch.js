@@ -1,4 +1,4 @@
-// Ejemplo de condiciones
+cls // Ejemplo de condiciones
 // condicional switch
 
 
